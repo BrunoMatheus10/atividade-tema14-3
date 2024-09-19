@@ -23,7 +23,7 @@ a = int(input("Digite o primeiro valor: "))
 b = int(input("Digite o segundo valor: "))
 
 # Exibição dos resultados das operações
-print(f"Soma: {soma(a, b)}")
-print(f"Subtração: {subtracao(a, b)}")
-print(f"Multiplicação: {multiplicacao(a, b)}")
-print(f"Divisão: {divisao(a, b)}")
+print("Soma: ",soma(a, b))
+print("Subtração: ",subtracao(a, b))
+print("Multiplicação: ",multiplicacao(a, b))
+print("Divisão: ",divisao(a, b))
